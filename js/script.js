@@ -394,7 +394,12 @@ $(document).ready(() => {
         const directories = getDirectories(pathArg);
         const path = getPath(directories);
         if (path === undefined) {
-          print(`-bash: ${command}: ${pathArg}: No such file or directory`);
+          if(pathArg.startsWith("-")) {
+            print(`-bash: cd: ${pathArg}: invalid option`);
+            print(`cd: usage: cd [dir]`);
+          } else {
+            print(`-bash: ${command}: ${pathArg}: No such file or directory`);
+          }
           break;
         } else if (Object.keys(path).length === 0) {
           print(`-bash: ${command}: ${pathArg}: Not a directory`);
@@ -408,7 +413,12 @@ $(document).ready(() => {
         const directories = getDirectories(pathArg);
         const path = getPath(directories);
         if (path === undefined) {
-          print(`-bash: ${command}: ${pathArg}: No such file or directory`);
+          if(pathArg.startsWith("-")) {
+            print(`ls: illegal option -- ${pathArg.substring(1, pathArg.length)}`);
+            print(`usage: ls [file ...]`);
+          } else {
+            print(`-bash: ${command}: ${pathArg}: No such file or directory`);
+          }
           break;
         } else if (Object.keys(path).length === 0) {
           print(`<div class="file">${directories.pop()}</div>`);
@@ -427,7 +437,12 @@ $(document).ready(() => {
           const directories = getDirectories(pathArg);
           const path = getPath(directories);
           if (path === undefined) {
-            print(`The file /${directories.join('/')} does not exist.`);
+            if(pathArg.startsWith("-")) {
+              print(`open: invalid option -- ${pathArg.substring(1, pathArg.length)}`);
+              print(`Usage: open [filenames]`);
+            } else {
+              print(`The file /${directories.join('/')} does not exist.`);
+            }
             continue;
           }
           if (directories[0] === 'users' && directories[1] === 'jason' && directories[2] === 'desktop') {
@@ -464,6 +479,7 @@ $(document).ready(() => {
         break;
       }
       default: {
+
         print(`-bash: ${command}: command not found`);
         break;
       }
