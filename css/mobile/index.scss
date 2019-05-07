@@ -1,9 +1,0 @@
-.screen {
-  .desktop {
-    .window-container {
-      @import "window/index";
-    }
-  }
-
-  @import "taskbar";
-}
