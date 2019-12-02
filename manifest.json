@@ -1,12 +1,11 @@
 {
-  "name": "jasonpark.me",
-  "short_name": "jasonpark.me",
+  "name": "Jinseo Park",
+  "short_name": "Jinseo Park",
   "start_url": ".",
   "display": "standalone",
   "theme_color": "#3D3D3D",
   "background_color": "#3D3D3D",
   "author": "Jinseo Park",
-  "description": "Jinseo Park",
   "icons": [
     {
       "src": "https://graph.facebook.com/1935436059816712/picture?type=small",
@@ -22,11 +21,6 @@
       "src": "https://graph.facebook.com/1935436059816712/picture?type=large",
       "sizes": "200x200",
       "type": "image/jpeg"
-    }
-  ],
-  "related_applications": [
-    {
-      "platform": "web"
     }
   ]
 }
