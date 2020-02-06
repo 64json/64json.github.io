@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.1368480c.chunk.css",
-    "main.js": "/static/js/main.5cf4af5e.chunk.js",
-    "main.js.map": "/static/js/main.5cf4af5e.chunk.js.map",
+    "main.js": "/static/js/main.ed7a1c97.chunk.js",
+    "main.js.map": "/static/js/main.ed7a1c97.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.096efb39.js",
     "runtime-main.js.map": "/static/js/runtime-main.096efb39.js.map",
     "static/js/2.a892115b.chunk.js": "/static/js/2.a892115b.chunk.js",
     "static/js/2.a892115b.chunk.js.map": "/static/js/2.a892115b.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.d0501defb4003fc48256365942667c3a.js": "/precache-manifest.d0501defb4003fc48256365942667c3a.js",
+    "precache-manifest.8cc180d182705adf386d39c88af854b4.js": "/precache-manifest.8cc180d182705adf386d39c88af854b4.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.1368480c.chunk.css.map": "/static/css/main.1368480c.chunk.css.map",
     "static/media/2010_2013_koi.jpg": "/static/media/2010_2013_koi.96544e38.jpg",
@@ -74,6 +74,6 @@
     "static/js/runtime-main.096efb39.js",
     "static/js/2.a892115b.chunk.js",
     "static/css/main.1368480c.chunk.css",
-    "static/js/main.5cf4af5e.chunk.js"
+    "static/js/main.ed7a1c97.chunk.js"
   ]
 }
