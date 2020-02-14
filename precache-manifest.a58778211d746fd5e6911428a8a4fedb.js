@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "049e9b3894de7e146fce8de23c28e893",
+    "revision": "529a786d787277a6b7bc1f2f76423edc",
     "url": "/index.html"
   },
   {
-    "revision": "f5db6f44a5879e7ded90",
+    "revision": "cd324cbf8b767ca15f54",
     "url": "/static/css/main.b1890e78.chunk.css"
   },
   {
-    "revision": "a89b5c3a69274d6f8b7a",
-    "url": "/static/js/2.f0061b60.chunk.js"
+    "revision": "1700d337521c96429b0b",
+    "url": "/static/js/2.5ea5f5a1.chunk.js"
   },
   {
-    "revision": "f5db6f44a5879e7ded90",
-    "url": "/static/js/main.f4fe8ce8.chunk.js"
+    "revision": "cd324cbf8b767ca15f54",
+    "url": "/static/js/main.0a45e5c5.chunk.js"
   },
   {
     "revision": "7b8868df4fcbb001a101",
@@ -114,6 +114,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "dc4f6cbc4bd6f8a8220fe5e1d2f9ec2d",
     "url": "/static/media/2020_thehomedepot.dc4f6cbc.jpg"
+  },
+  {
+    "revision": "83d5885d4c888c08c9a27cd454e57c30",
+    "url": "/static/media/2020_ugahacks.83d5885d.jpg"
   },
   {
     "revision": "d73a5294d3862d8e44ae5b76a366ed76",
