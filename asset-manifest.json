@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.63b1a720.chunk.css",
+    "main.css": "/static/css/main.560dd42c.chunk.css",
     "main.js": "/static/js/main.6e5860bc.chunk.js",
     "main.js.map": "/static/js/main.6e5860bc.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.ce4712ef.js",
@@ -8,9 +8,9 @@
     "static/js/2.33e880cf.chunk.js": "/static/js/2.33e880cf.chunk.js",
     "static/js/2.33e880cf.chunk.js.map": "/static/js/2.33e880cf.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.3e4b24b7c5fc6be75245b6f1716780d1.js": "/precache-manifest.3e4b24b7c5fc6be75245b6f1716780d1.js",
+    "precache-manifest.cb3ba61c5eb70e469a6ff80437fe19be.js": "/precache-manifest.cb3ba61c5eb70e469a6ff80437fe19be.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.63b1a720.chunk.css.map": "/static/css/main.63b1a720.chunk.css.map",
+    "static/css/main.560dd42c.chunk.css.map": "/static/css/main.560dd42c.chunk.css.map",
     "static/media/timeline-loader.js!": "/static/media/utd.c95ff4d0.jpg",
     "static/media/anthonys.jpg": "/static/media/anthonys.7f8d0ff6.jpg",
     "static/media/attribution.png": "/static/media/attribution.22cbce77.png",
@@ -35,7 +35,7 @@
   "entrypoints": [
     "static/js/runtime-main.ce4712ef.js",
     "static/js/2.33e880cf.chunk.js",
-    "static/css/main.63b1a720.chunk.css",
+    "static/css/main.560dd42c.chunk.css",
     "static/js/main.6e5860bc.chunk.js"
   ]
 }
