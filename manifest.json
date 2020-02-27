@@ -1,6 +1,7 @@
 {
   "name": "Jinseo Park",
   "short_name": "Jinseo Park",
+  "description": "A CS undergrad at Georgia Tech and a Software (and DevOps) Engineer at Prendssoin. Currently on an exchange program at National University of Singapore. Travelling on a regular basis is a necessity for him.",
   "start_url": ".",
   "display": "standalone",
   "theme_color": "#3D3D3D",
