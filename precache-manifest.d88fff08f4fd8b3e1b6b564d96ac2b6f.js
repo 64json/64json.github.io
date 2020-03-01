@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "458eae1de03bca3cf8c7a90c9933f7d7",
+    "revision": "a23362c156e564cb2c82454044560f7e",
     "url": "/index.html"
   },
   {
-    "revision": "9bd48ec16f5b1bab3ef5",
-    "url": "/static/css/main.560dd42c.chunk.css"
+    "revision": "c5ab5e41e65bc4a425b0",
+    "url": "/static/css/main.ade1ccec.chunk.css"
   },
   {
-    "revision": "13b5bf1206c50456be4f",
-    "url": "/static/js/2.d40e26b0.chunk.js"
+    "revision": "02c0fdc9342052b31f54",
+    "url": "/static/js/2.2bbcbbdf.chunk.js"
   },
   {
-    "revision": "9bd48ec16f5b1bab3ef5",
-    "url": "/static/js/main.bd1c684c.chunk.js"
+    "revision": "c5ab5e41e65bc4a425b0",
+    "url": "/static/js/main.ba94f028.chunk.js"
   },
   {
     "revision": "7b8868df4fcbb001a101",
@@ -30,6 +30,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "22cbce778755ee1d34081c948ebe68f5",
     "url": "/static/media/attribution.22cbce77.png"
+  },
+  {
+    "revision": "41d70c3daf4101c049c21d8f67ee1d80",
+    "url": "/static/media/awards.41d70c3d.png"
   },
   {
     "revision": "60d61dcc19f394ea6ef7a6e10862d2d3",
@@ -86,6 +90,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "122427b1787c5b50986b6d4936e9eb6e",
     "url": "/static/media/earthxhack.122427b1.jpg"
+  },
+  {
+    "revision": "09433c60d7606934848a19d47c864dd5",
+    "url": "/static/media/education.09433c60.png"
   },
   {
     "revision": "79f3cc03d5bd979a438e5bbd8b91093d",
@@ -204,6 +212,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/prendssoin.1b9cab7d.jpg"
   },
   {
+    "revision": "59dfc4be758e08f8c89171a39401be7a",
+    "url": "/static/media/projects.59dfc4be.png"
+  },
+  {
     "revision": "4a72917d2286087d9651e964192a2b00",
     "url": "/static/media/resume.4a72917d.png"
   },
@@ -262,5 +274,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "2daf386f59ef238482a1cd617bc4e4b7",
     "url": "/static/media/wallpaper.2daf386f.jpg"
+  },
+  {
+    "revision": "929cd9ddbb91209143fb4fa56ee95c0a",
+    "url": "/static/media/work_experience.929cd9dd.png"
   }
 ]);
