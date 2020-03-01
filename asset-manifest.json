@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.ade1ccec.chunk.css",
-    "main.js": "/static/js/main.ba94f028.chunk.js",
-    "main.js.map": "/static/js/main.ba94f028.chunk.js.map",
+    "main.css": "/static/css/main.21f97999.chunk.css",
+    "main.js": "/static/js/main.5c9123b5.chunk.js",
+    "main.js.map": "/static/js/main.5c9123b5.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.ce4712ef.js",
     "runtime-main.js.map": "/static/js/runtime-main.ce4712ef.js.map",
-    "static/js/2.2bbcbbdf.chunk.js": "/static/js/2.2bbcbbdf.chunk.js",
-    "static/js/2.2bbcbbdf.chunk.js.map": "/static/js/2.2bbcbbdf.chunk.js.map",
+    "static/js/2.96d1be02.chunk.js": "/static/js/2.96d1be02.chunk.js",
+    "static/js/2.96d1be02.chunk.js.map": "/static/js/2.96d1be02.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.d88fff08f4fd8b3e1b6b564d96ac2b6f.js": "/precache-manifest.d88fff08f4fd8b3e1b6b564d96ac2b6f.js",
+    "precache-manifest.297b6874baf09527dd8232e9bc91e8e1.js": "/precache-manifest.297b6874baf09527dd8232e9bc91e8e1.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.ade1ccec.chunk.css.map": "/static/css/main.ade1ccec.chunk.css.map",
+    "static/css/main.21f97999.chunk.css.map": "/static/css/main.21f97999.chunk.css.map",
     "static/media/timeline-loader.js!": "/static/media/utd.c95ff4d0.jpg",
     "static/media/anthonys.jpg": "/static/media/anthonys.7f8d0ff6.jpg",
     "static/media/attribution.png": "/static/media/attribution.22cbce77.png",
@@ -20,6 +20,7 @@
     "static/media/education.png": "/static/media/education.09433c60.png",
     "static/media/email.png": "/static/media/email.79f3cc03.png",
     "static/media/finder.png": "/static/media/finder.c696b25a.png",
+    "static/media/forkme.png": "/static/media/forkme.48c0303d.png",
     "static/media/github.png": "/static/media/github.58695e61.png",
     "static/media/hp.png": "/static/media/hp.b38cab81.png",
     "static/media/insta-ratio.png": "/static/media/insta-ratio.e1d295e8.png",
@@ -33,13 +34,13 @@
     "static/media/subway.png": "/static/media/subway.ab20d078.png",
     "static/media/terminal.png": "/static/media/terminal.afe83a95.png",
     "static/media/version_history.png": "/static/media/version_history.ff0270ae.png",
-    "static/media/wallpaper.jpg": "/static/media/wallpaper.2daf386f.jpg",
+    "static/media/wallpaper.jpg": "/static/media/wallpaper.118d3ab9.jpg",
     "static/media/work_experience.png": "/static/media/work_experience.929cd9dd.png"
   },
   "entrypoints": [
     "static/js/runtime-main.ce4712ef.js",
-    "static/js/2.2bbcbbdf.chunk.js",
-    "static/css/main.ade1ccec.chunk.css",
-    "static/js/main.ba94f028.chunk.js"
+    "static/js/2.96d1be02.chunk.js",
+    "static/css/main.21f97999.chunk.css",
+    "static/js/main.5c9123b5.chunk.js"
   ]
 }
