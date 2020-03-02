@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ca053d26b615dc6033054eaf0da7283c",
+    "revision": "4575a8b5138464b09215351636d4b961",
     "url": "/index.html"
   },
   {
-    "revision": "5cee05273cb9f2e1b40b",
-    "url": "/static/css/main.21f97999.chunk.css"
+    "revision": "68506c54834fbc798564",
+    "url": "/static/css/main.6fe7e8a4.chunk.css"
   },
   {
-    "revision": "23e65fd70088662ecd4a",
-    "url": "/static/js/2.96d1be02.chunk.js"
+    "revision": "91c260a4af3c2b9fbad6",
+    "url": "/static/js/2.3bca0c74.chunk.js"
   },
   {
-    "revision": "5cee05273cb9f2e1b40b",
-    "url": "/static/js/main.5c9123b5.chunk.js"
+    "revision": "68506c54834fbc798564",
+    "url": "/static/js/main.79ce648f.chunk.js"
   },
   {
     "revision": "7b8868df4fcbb001a101",
@@ -26,6 +26,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "7f8d0ff6e3836bf975ea51b563baa70c",
     "url": "/static/media/anthonys.7f8d0ff6.jpg"
+  },
+  {
+    "revision": "2868cae67bf6d5f41f6500feee058b4a",
+    "url": "/static/media/atlanta__georgia__united_states.2868cae6.jpg"
   },
   {
     "revision": "22cbce778755ee1d34081c948ebe68f5",
@@ -54,6 +58,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "403a0c5612beb64d2e0a58abcb811972",
     "url": "/static/media/chengdu80.403a0c56.jpg"
+  },
+  {
+    "revision": "737c0ceffa14868fd6729b7f8daf9f57",
+    "url": "/static/media/chengdu__sichuan__china.737c0cef.jpg"
   },
   {
     "revision": "4e8584de7b56b38b2d08c5369cc9f65d",
@@ -196,8 +204,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/link-external.cb80b6ab.png"
   },
   {
-    "revision": "12287d2ce0d7bef71ba6ed517521ebf9",
-    "url": "/static/media/location.12287d2c.png"
+    "revision": "ce573cbbcf74c3b374dd73b526eec236",
+    "url": "/static/media/lyon__france.ce573cbb.jpg"
   },
   {
     "revision": "38dae18966936f9b8bd4d2549a70ccbd",
@@ -216,6 +224,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/paypal.a176d62f.png"
   },
   {
+    "revision": "12287d2ce0d7bef71ba6ed517521ebf9",
+    "url": "/static/media/pinpoint.12287d2c.png"
+  },
+  {
+    "revision": "118d3ab92761548d35a00d6a141171ff",
+    "url": "/static/media/porto__portugal.118d3ab9.jpg"
+  },
+  {
     "revision": "1b9cab7d2f0294e90a2727457c02dd4c",
     "url": "/static/media/prendssoin.1b9cab7d.jpg"
   },
@@ -226,6 +242,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "4a72917d2286087d9651e964192a2b00",
     "url": "/static/media/resume.4a72917d.png"
+  },
+  {
+    "revision": "9e0a64262a80daefa5f93600096c7cb0",
+    "url": "/static/media/seoul__south_korea.9e0a6426.jpg"
+  },
+  {
+    "revision": "8d4322350d6b9a22a56deb12e807ba17",
+    "url": "/static/media/singapore__singapore.8d432235.jpg"
   },
   {
     "revision": "265a6f7ca957186f537f7224885756de",
@@ -280,8 +304,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/version_history.ff0270ae.png"
   },
   {
-    "revision": "118d3ab92761548d35a00d6a141171ff",
-    "url": "/static/media/wallpaper.118d3ab9.jpg"
+    "revision": "273b03f9fe847e8e69c3f38b7aa03cc7",
+    "url": "/static/media/wilsonia__california__united_states.273b03f9.jpg"
   },
   {
     "revision": "929cd9ddbb91209143fb4fa56ee95c0a",
