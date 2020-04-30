@@ -1,0 +1,20 @@
+{
+  "name": "jasonpark.me",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/parkjs814/jasonpark.me.git"
+  },
+  "author": "Jason Park",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/parkjs814/jasonpark.me/issues"
+  },
+  "homepage": "https://github.com/parkjs814/jasonpark.me",
+  "devDependencies": {}
+}
