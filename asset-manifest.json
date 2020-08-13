@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.9c2b2413.chunk.css",
-    "main.js": "/static/js/main.b98caa82.chunk.js",
-    "main.js.map": "/static/js/main.b98caa82.chunk.js.map",
+    "main.js": "/static/js/main.fc875154.chunk.js",
+    "main.js.map": "/static/js/main.fc875154.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.ce4712ef.js",
     "runtime-main.js.map": "/static/js/runtime-main.ce4712ef.js.map",
     "static/js/2.3bca0c74.chunk.js": "/static/js/2.3bca0c74.chunk.js",
     "static/js/2.3bca0c74.chunk.js.map": "/static/js/2.3bca0c74.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.e1973b273122fc4759ea6af8c30d4aac.js": "/precache-manifest.e1973b273122fc4759ea6af8c30d4aac.js",
+    "precache-manifest.e066285a412e5ec3f0fce521731dbcbe.js": "/precache-manifest.e066285a412e5ec3f0fce521731dbcbe.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.9c2b2413.chunk.css.map": "/static/css/main.9c2b2413.chunk.css.map",
     "static/media/timeline-loader.js!": "/static/media/utd.c95ff4d0.jpg",
@@ -47,6 +47,6 @@
     "static/js/runtime-main.ce4712ef.js",
     "static/js/2.3bca0c74.chunk.js",
     "static/css/main.9c2b2413.chunk.css",
-    "static/js/main.b98caa82.chunk.js"
+    "static/js/main.fc875154.chunk.js"
   ]
 }
