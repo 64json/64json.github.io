@@ -127,7 +127,7 @@ function TerminalWindow(props) {
       }
       case 'whoami': {
         if (options.includes('j')) {
-          window.open('https://www.instagram.com/jspark98/');
+          window.open('https://www.instagram.com/64jinseo/');
           flush();
         } else {
           print([
